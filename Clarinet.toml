@@ -10,6 +10,11 @@ path = 'contracts/collateral.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.interest]
+path = 'contracts/interest.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.issuance]
 path = 'contracts/issuance.clar'
 clarity_version = 2

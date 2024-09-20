@@ -7,3 +7,7 @@ G
 contracts/issuance.clar,c/e/ce868d967a1c1eefa4cfd6ef50c4defcf3be1e04
 F
 tests/issuance.test.ts,2/9/297f5ef4308562c13bac297644b4b99baff3a46c
+G
+contracts/interest.clar,8/a/8a90f8667345407aa7c1ffc9e8f7450efd8b845d
+F
+tests/interest.test.ts,0/f/0f80799889816f8a17024fdc7dd7532b077feda3

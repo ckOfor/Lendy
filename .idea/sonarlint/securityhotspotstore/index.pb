@@ -15,3 +15,7 @@ H
 contracts/repayment.clar,2/4/247c968ffa2d59de9fb28631c1087c0043a2da2e
 G
 tests/repayment.test.ts,d/8/d8a06ab8d3f83d8063a9c823ec190352829eb6d0
+J
+contracts/liquidation.clar,9/1/91d73d8895d968e85fc1de384f96354cc974a7dc
+I
+tests/liquidation.test.ts,3/9/3993d4d9aa259e9a13d4c6a24ba60922689f5186

@@ -65,6 +65,11 @@ plan:
             path: contracts/issuance.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: liquidation
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/liquidation.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: repayment
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/repayment.clar

@@ -11,3 +11,7 @@ G
 contracts/interest.clar,8/a/8a90f8667345407aa7c1ffc9e8f7450efd8b845d
 F
 tests/interest.test.ts,0/f/0f80799889816f8a17024fdc7dd7532b077feda3
+H
+contracts/repayment.clar,2/4/247c968ffa2d59de9fb28631c1087c0043a2da2e
+G
+tests/repayment.test.ts,d/8/d8a06ab8d3f83d8063a9c823ec190352829eb6d0
